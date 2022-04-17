@@ -1,0 +1,84 @@
+.navbar{
+    background-color:#F0F3F4;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.navbar-nav{
+    padding-left: auto;
+}
+
+.bg-image{
+    min-height: 100%;
+    background-image: url("imgs/fundopc.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; /* Faz a imagem rolar com a página*/
+}
+
+.quemsomos{
+    background-color: #212F3C;
+    color:white;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color:#3498DB;
+}
+
+.servicos{
+    background-color:#212F3C;
+    color:white;
+}
+
+.bg-footer{
+    background-color:white;
+    color:#212F3C;
+}
+
+hr{
+    size: 10px;
+    height: 5px;
+    text-align: center;
+    border-style: solid none;
+    border-width: 3px 0;
+    position: center;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+h5{
+    font-size: 17px;
+    padding-top: 15px;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h2{
+    padding-bottom: 15px;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h6{
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    text-align:justify;
+}
+
+body {
+    font: 20px Helvetica,Arial,sans-serif;
+}
